@@ -1,0 +1,99 @@
+body{
+    padding: 100;
+    margin: 100;
+    border: none;
+    background-color: black;
+    color: white;
+}
+header{
+    display: flex;
+}
+
+.link{
+    text-decoration: none;
+    text-decoration: sp;
+    justify-content: space-between;
+    padding-top: 200px;
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+
+}
+h1{
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(37, 37, 196);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.about{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.work{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.resume{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.contact{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.footer{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.fn{
+    padding: 12px;
+    width: 350px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 5px solid blue;
+    border-radius: 5px;
+}
+.em{
+    padding: 12px;
+    width: 350px;
+    margin-left: 36px;
+    margin-bottom: 15px;
+    border: 5px solid blue;
+    border-radius: 5px;
+}
+
+.ta{
+    margin-left: 100px;
+    color: black;
+    font-size: 18px;
+    border: 4px solid blue;
+    padding: 28px;
+}
+
+.button{
+    padding: 12px;
+    width: 382px;
+    margin-left: 97px;
+    margin-bottom: 15px;
+    border: 5px solid blue;
+    border-radius: 5px;
+}
+.footr{
+    margin-left: 90px;
+}
